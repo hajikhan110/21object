@@ -4,3 +4,4 @@ var country = {
     capital: 'isb',
 };
 console.log(country.yearborn);
+console.log(country);
